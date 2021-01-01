@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30406.217
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP_Project.Entity", "ERP_Project.Entity\ERP_Project.Entity.csproj", "{A5F88931-E9A9-4DD7-9393-5021FC3AEA4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP_Project.DataAccess", "ERP_Project.DataAccess\ERP_Project.DataAccess.csproj", "{72FB277F-1168-49A5-A28B-CA9B2466AEF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A5F88931-E9A9-4DD7-9393-5021FC3AEA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5F88931-E9A9-4DD7-9393-5021FC3AEA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5F88931-E9A9-4DD7-9393-5021FC3AEA4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72FB277F-1168-49A5-A28B-CA9B2466AEF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72FB277F-1168-49A5-A28B-CA9B2466AEF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72FB277F-1168-49A5-A28B-CA9B2466AEF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72FB277F-1168-49A5-A28B-CA9B2466AEF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
