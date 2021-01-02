@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP_Project.Entity", "ERP_P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP_Project.DataAccess", "ERP_Project.DataAccess\ERP_Project.DataAccess.csproj", "{72FB277F-1168-49A5-A28B-CA9B2466AEF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP_Project.Business", "ERP_Project.Business\ERP_Project.Business.csproj", "{9FF8CA28-BEF4-4CBE-B563-521EBEDF8B85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP_Project.Business", "ERP_Project.Business\ERP_Project.Business.csproj", "{9FF8CA28-BEF4-4CBE-B563-521EBEDF8B85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP_Project.Model", "ERP_Project.Model\ERP_Project.Model.csproj", "{58B430EC-0FAE-48BB-B5B3-59F3E2B9087F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERP_Project.Model", "ERP_Project.Model\ERP_Project.Model.csproj", "{58B430EC-0FAE-48BB-B5B3-59F3E2B9087F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP_Project.UI", "ERP_Project.UI\ERP_Project.UI.csproj", "{3F1E36DB-1714-4643-9A29-5FF39D20F2B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{58B430EC-0FAE-48BB-B5B3-59F3E2B9087F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58B430EC-0FAE-48BB-B5B3-59F3E2B9087F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58B430EC-0FAE-48BB-B5B3-59F3E2B9087F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F1E36DB-1714-4643-9A29-5FF39D20F2B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F1E36DB-1714-4643-9A29-5FF39D20F2B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F1E36DB-1714-4643-9A29-5FF39D20F2B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F1E36DB-1714-4643-9A29-5FF39D20F2B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
