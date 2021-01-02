@@ -14,11 +14,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Abstraction\" />
-    <Folder Include="Concrete\EntityFrameworkCore\EfDals\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\ERP_Project.Entity\ERP_Project.Entity.csproj" />
   </ItemGroup>
 
